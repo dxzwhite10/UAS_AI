@@ -1,6 +1,6 @@
 🧠 Langkah-Langkah Pengerjaan Proyek Klasifikasi Tingkat Stres
 🔍 Identifikasi Masalah & Tujuan
-Menentukan fokus pada klasifikasi stres dan depresi, serta menetapkan tujuan untuk mengukur performa algoritma KNN pada dua jenis data.
+Menentukan fokus pada klasifikasi stres dan depresi, serta menetapkan tujuan untuk mengukur performa algoritma ANN pada dua jenis data.
 
 📚 Studi Literatur
 Menelaah artikel penelitian sebelumnya untuk memahami metode, hasil, dan keterbatasan, khususnya yang membandingkan KNN dan Naïve Bayes.
